@@ -16,5 +16,11 @@
         "key": "Daniyal",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "0d6015df9e56f3a7",
+        "key": "Free",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
