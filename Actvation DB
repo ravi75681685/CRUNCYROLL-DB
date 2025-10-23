@@ -70,5 +70,11 @@
         "key": "MINO15",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e3e73767d701d028",
+        "key": "Aizen",
+        "expirydate": "21-11-2025",
+        "Allowoffline": true
     }
 ]
