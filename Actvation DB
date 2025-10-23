@@ -64,5 +64,11 @@
         "key": "Admin4",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "08b1b1bd6df88d5f",
+        "key": "MINO15",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
