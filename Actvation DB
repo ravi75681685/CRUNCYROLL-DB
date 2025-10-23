@@ -52,5 +52,11 @@
         "key": "Free",
         "expirydate": "23-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fdf33dbb86e09495",
+        "key": "Crunchyroll@25new",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
