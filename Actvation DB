@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "98c48ca005b03317",
+        "device_id": "59bcc366150b1b30",
         "key": "Ravi12",
         "expirydate": "31-12-2025",
         "Allowoffline": true
@@ -37,7 +37,7 @@
     },
     {
         "device_id": "f29fa1300044d56a",
-        "key": "Free",
+        "key": "123456",
         "expirydate": "22-11-2025",
         "Allowoffline": false
     },
