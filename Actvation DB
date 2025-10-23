@@ -46,5 +46,11 @@
         "key": "Kartik56",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "430e9ffe0169c80c",
+        "key": "Free",
+        "expirydate": "23-11-2025",
+        "Allowoffline": false
     }
 ]
