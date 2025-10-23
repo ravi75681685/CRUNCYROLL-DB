@@ -58,5 +58,11 @@
         "key": "Crunchyroll@25new",
         "expirydate": "21-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "412197e7ac693304",
+        "key": "Admin4",
+        "expirydate": "21-11-2025",
+        "Allowoffline": false
     }
 ]
