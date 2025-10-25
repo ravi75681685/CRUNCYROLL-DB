@@ -76,5 +76,11 @@
         "key": "Aizen",
         "expirydate": "21-11-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "033157ca66fc6bd2",
+        "key": "Admin5",
+        "expirydate": "21-11-2025",
+        "Allowoffline": true
     }
 ]
